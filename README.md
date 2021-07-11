@@ -1,6 +1,6 @@
 # vEver's garden
 
-A garden of posts focused on mathematics and cryptography with occasional CTF writeups.
+A garden of posts focusing on mathematics and cryptography with occasional CTF writeups.
 
 See the blog [here](https://KevinL10.github.io).
 
